@@ -10,6 +10,7 @@ http://localhost:7094/secret
 ![image](https://user-images.githubusercontent.com/54677528/134899565-d805d1cf-4329-4088-90a1-738f200296d0.png)
 
 ・The unauthorized error appears when not logged in.
+
 ![image](https://user-images.githubusercontent.com/54677528/134899607-4745e2cb-1311-42d4-a940-ff1d6dd705f9.png)
 
 http://localhost:7094/

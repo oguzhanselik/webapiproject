@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\SELIKO\OneDrive - Momentive\Desktop\projedddd</_PublishTargetUrl>
+    <History>True|2021-09-08T07:22:26.0788676Z;True|2021-09-08T15:47:35.2631388+09:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConnectionStrings">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=aspnet-53bc9b9d-9d6a-45d4-8429-2a2761773502%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

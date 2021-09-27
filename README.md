@@ -25,28 +25,35 @@ http://localhost:7094/v1/stocks
 
 http://localhost:7094/v1/stocks
 ・After registration, the registered information can be checked when a get request is sent to the “stocks” page.
+
 ![image](https://user-images.githubusercontent.com/54677528/134899757-6a326635-e1f1-4e04-8949-703d4db2184f.png)
 
 http://localhost:7094/v1/stokcs/{Name}
 ・Also can be checked with specific “name” sent get request to the “stocks” page.
+
 ![image](https://user-images.githubusercontent.com/54677528/134899792-95422595-f29a-48e6-a853-5680c255180a.png)
 
 http://localhost:7094/v1/sales
 ・When the “name”, “amount” and “price” values are sent as a post request, the sales are registered. Default value is "0" when no “amount” is specified.(Sales “amount” and “price” are multiplied and registered in the sales table as “totalprice”.)
+
 ![image](https://user-images.githubusercontent.com/54677528/134899836-994d14f4-462f-4be9-b08b-35cdde46d944.png)
 
 http://localhost:7094/v1/sales
 ・After registration, the registered information can be checked when a get request is sent to the “sales” page.
+
 ![image](https://user-images.githubusercontent.com/54677528/134899873-7cc1178d-bc72-4992-9b48-926349e2d0c0.png)
 
 http://localhost:7094/stocks
 ・After sales registration, “amount” sold decreases from “stock”.
+
 ![image](https://user-images.githubusercontent.com/54677528/134899901-31394c59-95bc-428e-beb3-aaec6da43653.png)
 
 http://localhost:7094/v1/sales
 ・With the delete request, all “sales” data is deleted from the “sales” page.
+
 ![image](https://user-images.githubusercontent.com/54677528/134899938-e9a07456-befa-42e8-8711-fd5cefd43fdb.png)
 
 http://localhost:7094/v1/stocks
 ・With the delete request, all “stocks” data is deleted from the “stocks” page.
+
 ![image](https://user-images.githubusercontent.com/54677528/134899965-3e9cc4ed-c105-4faf-a058-87a62b2e36e4.png)

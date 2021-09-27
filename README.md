@@ -1,10 +1,12 @@
 # ASP.NET Core Web API Project with Entity Framework & Swagger
 
 http://localhost:7094/swagger
+
 ![image](https://user-images.githubusercontent.com/54677528/134899515-2497f299-aaae-4683-af1a-74b4d0d18653.png)
 
 http://localhost:7094/secret
 ・Basic Authentication for access to “Secret” page.
+
 ![image](https://user-images.githubusercontent.com/54677528/134899565-d805d1cf-4329-4088-90a1-738f200296d0.png)
 
 ・The unauthorized error appears when not logged in.
@@ -12,10 +14,12 @@ http://localhost:7094/secret
 
 http://localhost:7094/
 ・“Welcome” message appears when you access the home page.
+
 ![image](https://user-images.githubusercontent.com/54677528/134899655-1fbe372b-6ea0-4c4e-bd06-d2a276067129.png)
 
 http://localhost:7094/v1/stocks
 ・When the post request is sent with the “name” and “amount”, if there is no other product with the same name, it is registered in the database.( Also the “name” must be up to 8 characters and alphabet characters. “Amount” must be an integer value.)
+
 ![image](https://user-images.githubusercontent.com/54677528/134899714-7020320c-1896-4c2a-8390-bf0bf9459f37.png)
 
 http://localhost:7094/v1/stocks

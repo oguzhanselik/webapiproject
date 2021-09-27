@@ -29,7 +29,7 @@ http://localhost:7094/v1/stocks
 ![image](https://user-images.githubusercontent.com/54677528/134899757-6a326635-e1f1-4e04-8949-703d4db2184f.png)
 
 http://localhost:7094/v1/stokcs/{Name}
-・Also can be checked with specific “name” sent get request to the “stocks” page.
+・Also can be checked with specific “name”
 
 ![image](https://user-images.githubusercontent.com/54677528/134899792-95422595-f29a-48e6-a853-5680c255180a.png)
 

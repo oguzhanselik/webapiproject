@@ -2,7 +2,7 @@
 
 http://localhost:7094/swagger
 
-![image](https://user-images.githubusercontent.com/54677528/134899515-2497f299-aaae-4683-af1a-74b4d0d18653.png)
+![1](https://user-images.githubusercontent.com/54677528/134900818-e93e70c9-a37c-40f1-a345-a4e73e263b88.PNG)
 
 http://localhost:7094/secret
 ・Basic Authentication for access to “Secret” page.
